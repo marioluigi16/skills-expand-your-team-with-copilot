@@ -703,7 +703,7 @@ footer {
 #dark-mode-toggle {
   position: absolute;
   top: 10px;
-  right: 15px;
+  right: 60px;
   background-color: rgba(255, 255, 255, 0.2);
   border: none;
   border-radius: 50%;
@@ -724,6 +724,6 @@ footer {
 }
 
 /* Adjust user controls position when dark mode toggle is present */
-body #user-controls {
-  right: 60px;
+#user-controls {
+  right: 110px;
 }
